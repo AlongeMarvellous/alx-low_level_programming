@@ -2,15 +2,17 @@
 
 /**
  * print alphabets
+ *
+ * return: 0
  */
 
 int main()
 {
-	int i;
+	char c;
 
-	for (i = 'a'; i <= 'z'; i++)
+	for (c = 'a'; c <= 'z'; i++)
 	{
-		_putchar(i);
+		_putchar(c);
 	}
 
 	_putchar('\n');

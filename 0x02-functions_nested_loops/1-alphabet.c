@@ -6,7 +6,7 @@
  * return: 0
  */
 
-int main()
+void print_alphabets(void)
 {
 	char c;
 
@@ -17,6 +17,5 @@ int main()
 
 	_putchar('\n');
 
-	return 0;
 }
 
